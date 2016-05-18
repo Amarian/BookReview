@@ -9,7 +9,8 @@ default: &default
   encoding: unicode
   pool: 5
   username: amarian
-  password: 
+  password:
+  host: 127.0.0.1
   timeout: 5000
 
 development:
